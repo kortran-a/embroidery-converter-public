@@ -1,0 +1,27 @@
+KALİTE DEĞERLENDİRMESİ
+====================================================
+Desen boyutu    : 127.6 x 144.0 mm
+Dikiş           : 14473
+Renk değişimi   : 3
+İplik kesme     : 52
+Dikiş uzunluğu  : ort 2.73 mm, maks 3.46 mm
+
+FİZİKSEL ÖLÇÜLER
+----------------------------------------------------
+Örtme oranı     : 1.00  (1.00 altı kumaş görünür, 1.30 üstü iplik yığılır)
+Dikiş yoğunluğu : 1.17 dikiş/mm²
+
+TÜKETİM VE SÜRE
+----------------------------------------------------
+Üst iplik       : 45.5 m
+Masura ipliği   : 15.0 m
+Tahmini süre    : 24 dakika (700 dikiş/dk varsayımı)
+
+RENK BAŞINA İPLİK
+----------------------------------------------------
+  Flag Blue            22.5 m
+  Devil Red            19.2 m
+  Orange Peel           3.7 m
+  Darkest Blue          0.0 m
+
+Uyarı yok: ölçülen değerlerin hepsi güvenli aralıkta.

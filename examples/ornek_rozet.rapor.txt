@@ -1,0 +1,21 @@
+NAKIŞ RENK SIRASI RAPORU
+================================================
+Desen boyutu   : 127.6 x 144.0 mm
+Toplam dikiş   : 14473
+Renk değişimi  : 3
+İplik kesme    : 52
+Boş geçiş      : 53
+Dikiş uzunluğu : ort 2.73 mm, maks 3.46 mm
+
+İPLİK TAKMA SIRASI
+------------------------------------------------
+ 1. 3335     Flag Blue        RGB(0, 56, 147)  (7137 dikiş)
+    görseldeki renk RGB(40, 69, 149), renk farkı ΔE=4.2
+ 2. 1306     Devil Red        RGB(249, 89, 81)  (6049 dikiş)
+    görseldeki renk RGB(239, 90, 70), renk farkı ΔE=3.4
+ 3. 0703     Orange Peel      RGB(255, 204, 70)  (1231 dikiş)
+    görseldeki renk RGB(254, 204, 60), renk farkı ΔE=1.0
+ 4. 3574     Darkest Blue     RGB(32, 39, 48)  (56 dikiş)
+    görseldeki renk RGB(7, 13, 29), renk farkı ΔE=8.4
+
+Not: ΔE 3'ün altı gözle neredeyse ayırt edilemez, 10 üstü belirgin fark.
