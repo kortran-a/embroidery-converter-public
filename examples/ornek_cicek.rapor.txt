@@ -1,0 +1,19 @@
+NAKIŞ RENK SIRASI RAPORU
+================================================
+Desen boyutu   : 128.9 x 121.1 mm
+Toplam dikiş   : 13566
+Renk değişimi  : 2
+İplik kesme    : 57
+Boş geçiş      : 58
+Dikiş uzunluğu : ort 2.83 mm, maks 3.38 mm
+
+İPLİK TAKMA SIRASI
+------------------------------------------------
+ 1. 0824     Liberty Gold     RGB(225, 127, 61)  (11083 dikiş)
+    görseldeki renk RGB(230, 120, 40), renk farkı ΔE=2.6
+ 2. 0703     Orange Peel      RGB(255, 204, 70)  (2397 dikiş)
+    görseldeki renk RGB(249, 199, 59), renk farkı ΔE=1.4
+ 3. 0020     Black            RGB(0, 0, 0)  (86 dikiş)
+    görseldeki renk RGB(30, 15, 5), renk farkı ΔE=9.2
+
+Not: ΔE 3'ün altı gözle neredeyse ayırt edilemez, 10 üstü belirgin fark.

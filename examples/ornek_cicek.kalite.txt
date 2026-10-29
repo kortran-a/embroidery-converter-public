@@ -1,0 +1,26 @@
+KALİTE DEĞERLENDİRMESİ
+====================================================
+Desen boyutu    : 128.9 x 121.1 mm
+Dikiş           : 13566
+Renk değişimi   : 2
+İplik kesme     : 57
+Dikiş uzunluğu  : ort 2.83 mm, maks 3.38 mm
+
+FİZİKSEL ÖLÇÜLER
+----------------------------------------------------
+Örtme oranı     : 1.00  (1.00 altı kumaş görünür, 1.30 üstü iplik yığılır)
+Dikiş yoğunluğu : 1.13 dikiş/mm²
+
+TÜKETİM VE SÜRE
+----------------------------------------------------
+Üst iplik       : 44.2 m
+Masura ipliği   : 14.6 m
+Tahmini süre    : 22 dakika (700 dikiş/dk varsayımı)
+
+RENK BAŞINA İPLİK
+----------------------------------------------------
+  Liberty Gold         36.4 m
+  Orange Peel           7.8 m
+  Black                 0.1 m
+
+Uyarı yok: ölçülen değerlerin hepsi güvenli aralıkta.

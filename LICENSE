@@ -1,0 +1,85 @@
+Embroidery Converter — Özel Kullanım Lisansı (Türkçe)
+======================================================
+
+Telif hakkı sahibi(leri): bu depodaki katkıda bulunanlar.
+
+Bu yazılımı ("Yazılım") kullanan, kopyalayan, değiştiren ve dağıtan herkese,
+aşağıdaki şartlarla, ücretsiz bir kullanım izni verilir:
+
+1. İZİN VERİLEN KULLANIMLAR
+   a. Yazılımı kişisel, eğitimsel veya ticari amaçla ÜCRETSİZ olarak
+      indirip çalıştırabilirsiniz.
+   b. Yazılımı değiştirmeden ya da değiştirerek, ÜCRETSİZ olmak kaydıyla
+      başkalarına dağıtabilirsiniz (ör. bir GitHub fork'u, bir arşiv
+      dosyası, bir kurulum paketi olarak).
+   c. Yazılımı kullanarak ÜRETTİĞİNİZ ÇIKTILARI (nakış dosyaları, işlenmiş
+      görseller, fiziksel nakışlı ürünler vb.) HİÇBİR KISITLAMA OLMADAN
+      ticari amaçla satabilir, bu çıktılara dayanan bir işletme
+      kurabilirsiniz. Yazılımın çıktısını kullanmak bu lisans kapsamında
+      "yazılımı satmak" sayılmaz.
+
+2. YASAKLANAN KULLANIM
+   a. Yazılımın kendisini (orijinal ya da değiştirilmiş haliyle, bütün
+      olarak ya da önemli bir bölümüyle) PARA KARŞILIĞINDA satamaz,
+      lisanslayamaz, bir ücretli ürün/hizmetin parçası olarak
+      paketleyemez veya Yazılıma erişim için ücret talep edemezsiniz.
+   b. Bu kısıtlamayı dolanmak amacıyla Yazılımı "danışmanlık ücreti",
+      "kurulum ücreti" gibi örtük biçimlerde ücretlendiremezsiniz —
+      kısıtlama Yazılımın kendisinin ticarileştirilmesini kapsar, onu
+      kullanarak üretilen ürün/hizmetleri değil.
+
+3. GARANTİ REDDİ
+   Yazılım "OLDUĞU GİBİ" sunulur, açık ya da zımni hiçbir garanti
+   verilmez (ticarete elverişlilik, belirli bir amaca uygunluk dahil).
+   Yazılımın kullanımından doğabilecek hiçbir zarardan telif hakkı
+   sahipleri sorumlu tutulamaz.
+
+4. KAYNAK ATIFI
+   Yazılımı dağıtırken bu LICENSE dosyasını ve kaynak depo bağlantısını
+   korumanız beklenir.
+
+Bu metin, OSI onaylı standart bir açık kaynak lisansı DEĞİLDİR —
+"kaynak serbest kullanım, ticari yeniden satışı yasak" (BUSL/PolyForm
+ailesine yakın) özel bir lisanstır. Farklı bir lisans modeli
+istiyorsanız depo sahipleriyle iletişime geçin.
+
+
+Embroidery Converter — Custom Use License (English, informative)
+==================================================================
+
+Copyright holders: the contributors to this repository.
+
+Permission is granted, free of charge, to any person to use, copy,
+modify, and redistribute this software ("the Software"), subject to:
+
+1. PERMITTED
+   a. Download and run the Software for free, for personal, educational,
+      or commercial purposes.
+   b. Redistribute the Software, modified or not, for FREE (no charge
+      for the Software itself or access to it).
+   c. Sell, without restriction, any OUTPUT produced using the Software
+      (embroidery files, rendered designs, physical embroidered goods,
+      etc.) and build a commercial business around that output. Selling
+      output is not "selling the Software" under this license.
+
+2. PROHIBITED
+   a. Selling, licensing, sublicensing, or charging any fee for the
+      Software itself (original or modified, in whole or in substantial
+      part), or bundling it into a paid product/service.
+   b. Circumventing this restriction through disguised charges (e.g. a
+      "setup fee" for the Software itself). The restriction targets
+      commercializing the Software, not output made with it.
+
+3. NO WARRANTY
+   The Software is provided "AS IS", without warranty of any kind. The
+   copyright holders are not liable for any damages arising from its
+   use.
+
+4. ATTRIBUTION
+   Redistributions must retain this LICENSE file and a link to the
+   source repository.
+
+This is NOT an OSI-approved open-source license — it is a custom
+"source-available, free to use, no commercial resale of the software
+itself" license (similar in spirit to BUSL/PolyForm). Contact the
+repository owners if you need a different licensing arrangement.

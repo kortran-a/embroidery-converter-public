@@ -1,0 +1,24 @@
+KALİTE DEĞERLENDİRMESİ
+====================================================
+Desen boyutu    : 128.9 x 48.2 mm
+Dikiş           : 1453
+Renk değişimi   : 0
+İplik kesme     : 4
+Dikiş uzunluğu  : ort 3.55 mm, maks 6.15 mm
+
+FİZİKSEL ÖLÇÜLER
+----------------------------------------------------
+Örtme oranı     : 1.00  (1.00 altı kumaş görünür, 1.30 üstü iplik yığılır)
+Dikiş yoğunluğu : 0.56 dikiş/mm²
+
+TÜKETİM VE SÜRE
+----------------------------------------------------
+Üst iplik       : 5.9 m
+Masura ipliği   : 2.0 m
+Tahmini süre    : 2 dakika (700 dikiş/dk varsayımı)
+
+RENK BAŞINA İPLİK
+----------------------------------------------------
+  Black                 5.9 m
+
+Uyarı yok: ölçülen değerlerin hepsi güvenli aralıkta.

@@ -1,0 +1,15 @@
+NAKIŞ RENK SIRASI RAPORU
+================================================
+Desen boyutu   : 128.9 x 48.2 mm
+Toplam dikiş   : 1453
+Renk değişimi  : 0
+İplik kesme    : 4
+Boş geçiş      : 5
+Dikiş uzunluğu : ort 3.55 mm, maks 6.15 mm
+
+İPLİK TAKMA SIRASI
+------------------------------------------------
+ 1. 0020     Black            RGB(0, 0, 0)  (1453 dikiş)
+    görseldeki renk RGB(0, 0, 0), renk farkı ΔE=0.0
+
+Not: ΔE 3'ün altı gözle neredeyse ayırt edilemez, 10 üstü belirgin fark.
