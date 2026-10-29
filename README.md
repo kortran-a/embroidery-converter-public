@@ -44,7 +44,11 @@ Birkaç şey daha:
 - Tasarımı bir tişört/gömlek kalıbının neresine koyacağınızı gösteren
   görsel bir yerleşim rehberi.
 - Son dikişi gerçek bir kumaş yüzeyine sarıp birkaç açıdan gösteren 3D
-  önizleme.
+  önizleme — tasarım gerçekten dikilmeden önce kıyafetin üstünde nasıl
+  duracağını görürsünüz.
+
+  ![3D kıyafet önizleme](docs/screenshots/3d-onizleme.png)
+
 - Üretilen dikişi nokta nokta düzenleyebileceğiniz, elle şekil de
   çizebildiğiniz ayrı bir editör.
 - Birden fazla aday ayar deneyip dikiş bütçenize sığan en benzer sonucu
